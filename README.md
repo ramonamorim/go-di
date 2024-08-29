@@ -83,6 +83,6 @@ go build -o app
 
 Isso criará um arquivo executável chamado myapp (ou o nome que você escolher) no diretório atual. Você pode então executar o binário diretamente:
 
-    ```bash
-    ./app
-    ```
+```bash
+./app
+```
